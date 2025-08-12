@@ -4,7 +4,7 @@
 This repository contains the analysis of a phishing email sample. The email pretends to be a Microsoft Office 365 security alert to lure the victim into clicking a malicious link.
 
 ## Email Sample
-![Phishing Email Screenshot](phishing mail sample.png)
+![Phishing Email Screenshot](phishing_mail_sample.png)
 
 ## Phishing Indicators Found
 1. **Spoofed sender address** – `microsoft@email-records.com` instead of official `@microsoft.com`.
